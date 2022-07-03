@@ -1,2 +1,0 @@
-add white pieces printing
-hardcode printing the starting board
